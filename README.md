@@ -62,9 +62,9 @@ I enjoy turning designs into fully functional, fast, and scalable websites. I'm 
 ### 📫 Contact With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kk.mdkudrot@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile](https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-b63217286/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kamrujjaman-al-kudrot-b63217286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/[your-profile](https://www.facebook.com/md.kudrot.39545))  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/01315984904)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801315984904)  
 
 ---
 
